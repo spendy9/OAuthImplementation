@@ -71,8 +71,8 @@ public class EmployeeController {
 		// console and specify them directly when you create the GoogleAuthorizationCodeTokenRequest
 		// object.
 		String CLIENT_SECRET_FILE  = "/resources/static/client_secret.json";
-		String CLIENT_ID = "787591210057-680u7b0shhup4m70h6c8ee2vpj0pa1ob.apps.googleusercontent.com";
-		String CLIENT_SECRET ="6DEDl5XWpnqOka_PnQj_jlUx";
+		String CLIENT_ID = "";
+		String CLIENT_SECRET ="";
 		//String REDIRECT_URI = "http://localhost:8090/SpringMVC/newEmployee";
 		String REDIRECT_URI = "postmessage";
 		
